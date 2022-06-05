@@ -9,5 +9,6 @@ public class gittest {
         System.out.println("hello git!");
         System.out.println("hello git!");
         System.out.println("测试推送");
+        System.out.println("ssh推送测试");
     }
 }
